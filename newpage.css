@@ -59,18 +59,13 @@ html,body{
   background-repeat: no-repeat;
 }
 
-#heading-p,#heading,#image{
+#image{
 	position: absolute;
 	left: 0;
 	right: 0;
 	margin: auto
 }
-#heading{
-	margin-top:2em;
-}
-#heading-p{
-	margin-top:8em;
-}
+
 #image{
 	margin-top:9em;
 }
